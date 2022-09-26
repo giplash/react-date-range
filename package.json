@@ -1,5 +1,5 @@
 {
-  "name": "@giplash/react-date-range",
+  "name": "react-date-range-tweaked",
   "version": "1.0.0",
   "description": "A React component for choosing dates and date ranges.",
   "main": "dist/index.js",
